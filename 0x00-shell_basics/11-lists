@@ -1,0 +1,2 @@
+#!/bin/bash
+ls Ã-la ./* ../* /boot/* \n
