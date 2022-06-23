@@ -1,1 +1,1 @@
-0-iam_betty --> Change the user to user betty
+Shell, Basics --> Path to Software Engineering with ALX
