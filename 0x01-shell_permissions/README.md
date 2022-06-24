@@ -6,4 +6,5 @@
 5-execute --> add execute permission to the owner of the file hello
 6-multiple_permissions --> add execute permission to the owner and the group owner and read permission to the others users
 7-everybody --> add execution permission to the owner, the group and the other users to the file hello
+8-James_Bond --> Set different permission to a file called hello
 
