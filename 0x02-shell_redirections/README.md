@@ -4,4 +4,6 @@ https://www.alx-intranet.hbtn.io/projects/208#quiz-completed
 1-confused_smiley --> Display a confused smiley.\n
 2-hellofile --> dispmlay the content of the /etc/passwd. \n
 3-twofiles --> display the content of /etc/passwd and /etc/hosts. \n
+4-lastlines --> displaythe last lines of /etc/passwd. \n
+5-firstlines --> Display the first 10 lines. \n
 
