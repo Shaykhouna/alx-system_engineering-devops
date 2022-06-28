@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n -t < cat -type -d /home* '/etc/passwd'
+sort -d > cat /etc/passwd
