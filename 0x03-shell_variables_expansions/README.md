@@ -1,1 +1,2 @@
 THIS IS THE GUIDE FOR EACH ONE OF THE SCRIPT! Good Read!
+1-hello_you --> 
