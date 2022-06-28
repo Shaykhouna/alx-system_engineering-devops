@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $(sort -d $USER) /etc/passwd
+sort -d $USER $(cat /etc/passwd)
