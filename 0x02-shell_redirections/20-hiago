@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -di 'c' $1
+tr -di 'cC' $1
