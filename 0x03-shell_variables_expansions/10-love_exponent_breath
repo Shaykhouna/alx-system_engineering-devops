@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BREATH**$POWE))
+echo $(($BREATH**$POWER))
