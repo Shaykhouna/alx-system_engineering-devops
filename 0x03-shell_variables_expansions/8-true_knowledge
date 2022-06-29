@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-printf $(((128+$TRUEKNOWLEGDE)\n))
-=======
 printf $((128+$TRUEKNOWLEGDE))\n
->>>>>>> 052a9659dcdcce951ac7175ce218789f06c46d82
