@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((128 + $TRUEKNOWLEGDEÂ)\n))
+echo "$(((128 + $TRUEKNOWLEGDE)\n))
