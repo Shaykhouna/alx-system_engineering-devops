@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindeppth 1 -type d | wc -l
+ls -lRA | grep ^d | wc -l
