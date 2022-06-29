@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 < sort -n $(find . -type f -printf "%t - %p\n")
+ls -ltc | head -11
