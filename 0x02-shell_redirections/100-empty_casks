@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rax | find . -empty 
+ls -Rax | find -empty 
