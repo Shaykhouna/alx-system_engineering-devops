@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.gif -1aR
+ls -aR1 *.gif
